@@ -9,7 +9,7 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
-# TBD-course-name
+# Algorithms and Data Structures
 
 _TBD-course-description_
 
